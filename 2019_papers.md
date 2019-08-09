@@ -1,4 +1,4 @@
-# Statistics & bioinformatics
+# Statistics & Bioinformatics
 
 1. On cross-validation for sparse reduced rank
 regression
