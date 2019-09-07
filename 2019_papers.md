@@ -100,3 +100,7 @@ SELECTIVE INFERENCE
 MEASURES FOR RANDOM VECTORS
 
 - The Annals of Statistics
+
+21. Prediction of regulatory motifs from human Chip-sequencing data using a deep learning framework
+
+- Nucleic Acids Research
